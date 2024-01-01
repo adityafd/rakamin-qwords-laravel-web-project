@@ -1,3 +1,7 @@
+## About This Project
+
+Develop this landing web page made using the Laravel framework as a final task to complete the Rakamin Academy virtual internship program at PT. Qwords Company International based on its official website (https://www.qwords.com/).
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
